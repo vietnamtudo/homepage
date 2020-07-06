@@ -1,4 +1,4 @@
-baseURL = "https://vietnamtudo.net/"
+baseURL = "https://vietnamtudo.github.io/homepage/"
 languageCode = "vi-vn"
 title = "Việt Nam Tự Do Đảng"
 theme = "minimal"
