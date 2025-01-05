@@ -23,7 +23,6 @@ img {
 /* Homepage */
 
 .intro {
-    transform: translateY(10vh);
 }
 
 .intro > h1 {
