@@ -2,7 +2,7 @@
 title: Những giá trị cốt lõi
 ---
 
-Những giá trị này nòng cốt này là mục tiêu đấu tranh chính trị của chúng tôi. Có thể vì hoàn cảnh khách quan mà việc thực hiện trực tiếp những giá trị này là bất khả, nhưng về lâu dài, việc hướng tới những giá trị này là căn bản.
+Những giá trị nòng cốt này là mục tiêu của chúng tôi. Có thể vì hoàn cảnh khách quan mà việc thực hiện trực tiếp những điều này là bất khả, nhưng về lâu dài, việc hướng tới những giá trị này là căn bản.
 ## 1. Tự do cá nhân.
  ### Tự do tư tưởng
  - Thứ quý giá nhất đối với con người là tư tưởng, và cũng tư tưởng là thứ làm nên bản thân anh ta. Chúng tôi theo đuổi một giá trị bất diệt là bảo vệ sự tự do tư tưởng đó.
